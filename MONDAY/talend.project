@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_VBJvsSjKEemS4rOlsna26A" label="Monday" description="" language="java" technicalLabel="MONDAY" creationDate="2019-02-05T03:42:54.795+0530" author="_VBJvsijKEemS4rOlsna26A" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/mgkrish19/shiva.git&quot;,&quot;login&quot;:&quot;mgkrish19@gmail.com&quot;,&quot;passwd&quot;:&quot;ij6Sx3sZkBOmCH2Y+KYxLw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_VBJvsijKEemS4rOlsna26A" login="mgkrish19@gmail.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+</xmi:XMI>
